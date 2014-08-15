@@ -7,4 +7,6 @@ This is a test file
 
 This text is written locally.
 
+HER ER NOGET STOR TEXT
+
 /Simon
